@@ -1,0 +1,15 @@
+{
+    "name": "natan/routerman",
+    "autoload": {
+        "psr-4": {
+            "Natan\\Routerman\\": "src/"
+        },
+        "files": ["src/Config.php"]
+    },
+    "authors": [
+        {
+            "name": "NatanAugusto"
+        }
+    ],
+    "require": {}
+}
